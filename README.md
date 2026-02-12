@@ -6,8 +6,8 @@
 
 > **Computer Vision Course Project** - Complete pipeline for camera calibration using checkerboard patterns and 3D scene reconstruction from stereo image pairs.
 
-**Author:** Mohsen Saadatpour Moghaddam  
-**Student ID:** VR512517  
+**Author:** Mohsen Saadatpour 
+
 **Course:** Computer Vision 2024/2025
 
 ---
